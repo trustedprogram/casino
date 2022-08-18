@@ -1,0 +1,4 @@
+name: casinowp
+recipe: lamp
+config:
+  webroot: .
